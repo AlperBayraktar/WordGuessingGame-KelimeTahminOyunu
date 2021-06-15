@@ -13,7 +13,7 @@ TKinter ve SQLite3 paketleriyle Python kullanarak yaptığım bir kelime tahmin 
 
 ## *ÖNEMLİ NOT: Ses efektlerinin haklarını bilmiyorum. Telif haklı mı değiller mi bilmiyorum.*
 
-İlerleyen günlerde oyunun nasıl çalıştığını temel olarak anlatan bir md dosyası ekleyeceğim.
+İlerleyen günlerde oyunun nasıl çalıştığını temel olarak anlatan bir md dosyası ve Türkçe dil ekleyeceğim.
 
 ## Find The Word, Get The Coin! - English
 
