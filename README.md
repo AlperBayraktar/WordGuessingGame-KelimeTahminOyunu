@@ -1,7 +1,7 @@
 
 ## Kelimeyi Bul, Coin'i Kap! - Türkçe 
 
-TKinter ve SQLite3 paketleriyle Python kullanarak yaptığım bir kelime tahmin oyunu. Oynamak için `main.py` dosyasını çalıştırın.
+TKinter, pygame ve SQLite3 paketleriyle Python kullanarak yaptığım bir kelime tahmin oyunu. Oynamak için `main.py` dosyasını çalıştırın.
 
 
 ## Nasıl Oynanır?
@@ -16,7 +16,7 @@ TKinter ve SQLite3 paketleriyle Python kullanarak yaptığım bir kelime tahmin 
 
 ## Find The Word, Get The Coin! - English
 
-This is a word guessing game that i made using Python with TKinter and SQLite3 packages. Run `main.py` file to play the game.
+This is a word guessing game that i made using Python with TKinter, pygame and SQLite3 packages. Run `main.py` file to play the game.
 
 ## How To Play?
 
