@@ -1,0 +1,124 @@
+{
+  "fullName": "English",
+
+  "rootTitle": "Find The Word, Get The Coin!",
+  "charList": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "G",
+    "H",
+    "I",
+    "J",
+    "K",
+    "L",
+    "M",
+    "N",
+    "O",
+    "P",
+    "Q",
+    "R",
+    "S",
+    "T",
+    "U",
+    "V",
+    "W",
+    "X",
+    "Y",
+    "Z"
+  ],
+
+  "howToPlayTitle": "How To Play?",
+  "howToPlayContent": "-You are trying to guess a word with given 22 letters and word's description.\n-If you get stuck, you can get a hint. The hint shows the next letter of your guess, but it doesn't tell  you is your current guess right or not.\n-Every right guess gives you 10 coins and your level will increase by 1 and every hint costs 10 coins.",
+
+  "btn": {
+    "start": "Start",
+    "resetData": "Reset Data",
+    "close": "Close",
+    "backToStart": "Back",
+    "hint": "Hint",
+    "delete": "Delete",
+    "howToPlay": "How To Play?"
+  },
+
+  "msg": {
+    "getHintTitle": "Are you sure?",
+    "getHintMsg": "Do you want to get a hint? It will cost 10 coins and you will be able to see the next letter of your guess.",
+
+    "outOfCoinsTitle": "Error",
+    "outOfCoinsMsg": "You're out of coins!\nYou must have at least 10 coins to get a hint.",
+
+    "noEmptyLetterTitle": "Oops",
+    "noEmptyLetterMsg": "There is no empty letter to give you a hint!",
+
+    "gameFinishedTitle": "Congratulations!",
+    "gameFinishedMsg": "Congratulations! You have finished the game!",
+
+    "resetDataQuestionTitle": "Careful!",
+    "resetDataQuestionMsg": "Are you sure you want reset your progress? This process is irrecoverable?",
+    "resetDataSuccessTitle": "Done.",
+    "resetDataSuccessMsg": "Your data is resetted now.",
+    "resetDataErrorTitle": "Error",
+    "resetDataErrorMsg": "Couldn't reset player data:\n",
+
+    "changeLanguageSuccessTitle": "Process has done successfully.",
+    "changeLanguageSuccessMsg": "Language has changed.",
+    "changeLanguageErrorTitle": "Oops... Error!.",
+    "changeLanguageErrorMsg": "An error occured while changing the language:"
+  },
+
+  "words": {
+    "1": {
+      "word": "overeat",
+      "description": "eat excessively"
+    },
+
+    "2": {
+      "word": "remember",
+      "description": "recall to the mind/store in the memory"
+    },
+
+    "3": {
+      "word": "hard",
+      "description": "synonymous of difficult"
+    },
+
+    "4": {
+      "word": "floor",
+      "description": "flat surface at the bottom of the room"
+    },
+
+    "5": {
+      "word": "fly",
+      "description": "small winged insect"
+    },
+
+    "6": {
+      "word": "fog",
+      "description": "water vapor in the air"
+    },
+
+    "7": {
+      "word": "scenario",
+      "description": "storyline"
+    },
+
+    "8": {
+      "word": "ugly",
+      "description": "not good looking"
+    },
+
+    "9": {
+      "word": "vegetable",
+      "description": "edible fruit of a plant"
+    },
+
+    "10": {
+      "word": "venus",
+      "description": "second planet from the sun"
+    }
+  }
+}
