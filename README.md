@@ -26,4 +26,4 @@ This is a word guessing game that i made using Python with TKinter, pygame and S
 - If you get stuck, you can get a hint. The hint shows the next letter of your guess, but **it doesn't tells you is your current guess right or not.**
 - Every right guess gives you 10 coins and your level will increase by 1.
 
-### *IMPORTANT NOTE: I don't know does voice effects have rights. I dont know are they coprighted.*
+### *IMPORTANT NOTE: I don't know does voice effects have rights. I dont know are they copyrighted.*
