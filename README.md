@@ -1,29 +1,53 @@
-# Kelimeyi Bul, Coin'i Kap! - Türkçe
+<h1 align="center">Find The Word, Get The Coin! - English</h1>
 
-TKinter, pygame ve SQLite3 paketleriyle Python kullanarak yaptığım bir kelime tahmin oyunu. Oynamak için `main.py` dosyasını çalıştırın.
-
-> Eğer dosyaya tıklayınca çalışmıyorsa terminal üzerinden çalıştırmayı deneyin.
-
-## Nasıl oynanır?
-
-- Açıklaması gösterilen kelimeyi size verilen 22 harfi kullanarak tahmin etmeye çalışıyorsunuz.
-- Eğer sıkışırsanız ipucu alabilirsiniz. İpucu tahminizin bir sonraki karakterini gösterir, ama **o ana kadar yaptığınız tahmin doğru mu değil mi söylemez**. İpucu almak için 10 coin'i gözden çıkarmanız gerekiyor.
-- Her doğru tahminde 10 coin alıyorsunuz ve level'iniz artıyor.
-
-### **Önemli Not**: Ses efektleri telif haklı mı değil mi bilmiyorum.
-
-<br />
-
-# Find The Word, Get The Coin! - English
-
-This is a word guessing game that i made using Python with TKinter, PyGame and SQLite3 libraries. Run `main.py` file to play the game.
-
-> If it doesn't work when clicking the file, please try to run it on terminal.
+This is a word guessing game that i made using Python.
 
 ## How To Play?
 
-- You are trying to guess a word with given 22 letters and a description.
-- If you get stuck, you can use a hint by spending 10 coins. The hint shows the next letter of your guess, but **it doesn't tell you is your current guess right or not.**
-- Every right guess gives you 10 coins and your level will increase by 1.
+-   You are trying to guess given words using their descriptions.
 
-### **Important Note**: I don't know are voice effects copyrighted.
+-   You have 20 letters to choose for guessing the right answer.
+
+-   When you're stuck, you can use hints. Hints show the next letter of your guess. But they don't give information about correctness of your current guess.
+
+-   Hints cost 20 coins, each right answer will give you 10 coins.
+
+-   To see your statistics, you can use profile section.
+
+## How to run?
+
+> For V1 and V2: run main.py
+
+> Instructions for V3 is inside the README.md file in V3 folder
+
+> If game doesn't work when opening via clicking the file, please try to run it on terminal.
+
+### **Important Note**: I don't know if voice effects in old commits were copyrighted.
+
+<br />
+
+<h1 align="center">Kelimeyi Bul, Coin'i Kap! - Türkçe</h1>
+
+Python kullanarak yaptığım bir kelime tahmin oyunu.
+
+## Nasıl oynanır?
+
+-   Size verilen kelimeyi kelimenin açıklamasını kullanarak tahmin etmeye çalışıyorsunuz.
+
+-   Doğru cevabı bulmak için size verilen 20 harfi kullanabilirsiniz.
+
+-   Takıldığınızda size tahmininizin sonraki harfini gösteren ipuçları kullanabilirsiniz.
+
+-   İpuçları 20 coin tutar, her doğru cevapsa size 10 coin verir.
+
+-   İstatistikleri görmek için profil bölümünü kullanabilirsiniz."
+
+## Nasıl çalıştırılır?
+
+> V1 ve V2'de main.py dosyasını çalıştırabilirsiniz.
+
+> V3 için indirme bilgileri V3 klasöründeki README.md'de yazılıdır.
+
+> Eğer dosyaya tıklayınca çalışmıyorsa terminal üzerinden çalıştırmayı deneyin.
+
+### **Önemli Not**: Eski commit'lerdeki ses efektleri telif haklı mıydı değil miydi bilmiyorum.

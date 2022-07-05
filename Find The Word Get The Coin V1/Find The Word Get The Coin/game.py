@@ -1,16 +1,14 @@
-from pygame import mixer
 import json, random
 from player import db as playerDB
 from words import db as wordsDB
 from tkinter import messagebox as msgBox
 
-mixer.init()
 
 def playFalse():
-    mixer.Sound(file=r"Voice Effects/false.mp3").play()
+    pass
 
 def playTrue():
-    mixer.Sound(file=r"Voice Effects/right.mp3").play()
+    pass
 
 
 def makeList(string):
