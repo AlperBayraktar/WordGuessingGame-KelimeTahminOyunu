@@ -1,0 +1,122 @@
+{
+    "name": "English",
+
+    "windowTitle": "Find The Word, Get The Coin!",
+    "btn": {
+        "start": "Start",
+        "profile": "Profile",
+        "howToPlay": "How To Play?",
+        "settings": "Settings",
+        "quit": "Quit",
+        "goBack": "Go Back",
+        "apply": "Apply",
+        "getHint": "Get Hint",
+        "delete": "Delete",
+        "resetData": "Reset progress"
+    },
+
+    "label": {
+        "settingsTitle": "Settings",
+        "changeLanguageTitle": "Language",
+        "howToPlay": "You are trying to guess given words using their descriptions. \nYou have 20 letters to choose for guessing the right answer.\n\nWhen you're stuck, you can use hints. Hints show the next letter of your guess.\nBut they don't give information about correctness of your current guess.\nHints cost 20 coins, each right answer will give you 10 coins.\n\nTo see your statistics, you can use profile section.",
+        "playerName": "Player Name",
+        "answeredQuestions": "Answered Questions",
+        "coins": "Coins",
+        "hintsUsed": "Hints used"
+    },
+
+    "msg": {
+        "appliedSettingsMsg": "Game's language is now ",
+        "usernameChangedMsg": "Username is updated to ",
+        "usernameIsLongMsg": "Username can't be longer than 16 characters: ",
+        "noLetterToDeleteMsg": "There aren't any letters to delete. Note: hints are not deletable",
+        "wrongAnswerMessage": "Answer is wrong",
+        "rightAnswerMessage": "You guessed right!",
+        "outOfCoins": "You don't have enough coins.",
+        "youHaveFinishedTheGame": "You have finished the game!",
+        "resettingDataTitle": "Are you sure?",
+        "resettingDataMsg": "Your progress will be deleted, are you sure?",
+        "resettedDataMsg": "Progress is deleted."
+    },
+
+    "alphabet": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "X",
+        "Y",
+        "Z"
+    ],
+
+    "words": {
+        "0": {
+            "word": "overeat",
+            "description": "eat excessively"
+        },
+
+        "1": {
+            "word": "remember",
+            "description": "recall to the mind/store in the memory"
+        },
+
+        "2": {
+            "word": "hard",
+            "description": "synonymous of difficult"
+        },
+
+        "3": {
+            "word": "floor",
+            "description": "flat surface at the bottom of the room"
+        },
+
+        "4": {
+            "word": "fly",
+            "description": "small winged insect"
+        },
+
+        "5": {
+            "word": "fog",
+            "description": "water vapor in the air"
+        },
+
+        "6": {
+            "word": "scenario",
+            "description": "storyline"
+        },
+
+        "7": {
+            "word": "ugly",
+            "description": "not good looking"
+        },
+
+        "8": {
+            "word": "vegetable",
+            "description": "edible fruit of a plant"
+        },
+
+        "9": {
+            "word": "venus",
+            "description": "second planet from the sun"
+        }
+    }
+}

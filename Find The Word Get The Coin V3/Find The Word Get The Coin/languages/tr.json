@@ -1,0 +1,122 @@
+{
+    "name": "Türkçe",
+
+    "windowTitle": "Kelimeyi bul, coin'i kap!",
+    "btn": {
+        "start": "Başla",
+        "profile": "Profil",
+        "howToPlay": "Nasıl Oynanır?",
+        "settings": "Ayarlar",
+        "quit": "Çık",
+        "goBack": "Geri Dön",
+        "apply": "Uygula",
+        "getHint": "İpucu Al",
+        "delete": "Sil",
+        "resetData": "İlerlemeyi sıfırla"
+    },
+
+    "label": {
+        "settingsTitle": "Ayarlar",
+        "changeLanguageTitle": "Dil",
+        "howToPlay": "Size verilen kelimeyi kelimenin açıklamasını kullanarak tahmin etmeye çalışıyorsunuz.\nDoğru cevabı bulmak için size verilen 20 harfi kullanabilirsiniz.\n\nTakıldığınızda size tahmininizin sonraki harfini gösteren ipuçları kullanabilirsiniz.\nİpuçları 20 coin tutar, her doğru cevapsa size 10 coin verir.\n\nİstatistikleri görmek için profil bölümünü kullanabilirsiniz.",
+        "playerName": "Oyuncu Adı",
+        "answeredQuestions": "Cevaplanan Sorular",
+        "coins": "Coin'ler",
+        "hintsUsed": "Alınan ipuçları"
+    },
+
+    "msg": {
+        "appliedSettingsMsg": "Oyunun dili artık ",
+        "usernameChangedMsg": "Kullanıcı adınız artık ",
+        "usernameIsLongMsg": "Kullanıcı adı 16 karakteri geçemez: ",
+        "noLetterToDeleteMsg": "Silinecek bir harf yok.Not: ipuçları silinemez",
+        "wrongAnswerMessage": "Cevabınız yanlış",
+        "rightAnswerMessage": "Doğru!",
+        "outOfCoins": "Yeteri kadar coin'in yok.",
+        "youHaveFinishedTheGame": "Oyunu bitirdiniz!",
+        "resettingDataTitle": "Emin misiniz?",
+        "resettingDataMsg": "Tüm oyun ilerlemeniz silinecek, emin misiniz?",
+        "resettedDataMsg": "İlerleme sıfırlandı!"
+    },
+
+    "alphabet": [
+        "A",
+        "B",
+        "C",
+        "D",
+        "E",
+        "F",
+        "G",
+        "H",
+        "I",
+        "J",
+        "K",
+        "L",
+        "M",
+        "N",
+        "O",
+        "P",
+        "Q",
+        "R",
+        "S",
+        "T",
+        "U",
+        "V",
+        "W",
+        "X",
+        "Y",
+        "Z"
+    ],
+
+    "words": {
+        "0": {
+            "word": "bez",
+            "description": "Pamuk veya keten ipliğinden yapılan dokuma?"
+        },
+
+        "1": {
+            "word": "hatırlamak",
+            "description": "Bir anıyı/olayı/bilgiyi aklından bulmak, anımsamak?"
+        },
+
+        "2": {
+            "word": "zor",
+            "description": "Basit kelimesinin zıttı?"
+        },
+
+        "3": {
+            "word": "kat",
+            "description": "Bir yapıda iki döşeme arasında yer alan daire veya odaların bütünü?"
+        },
+
+        "4": {
+            "word": "sinek",
+            "description": "Daha çok yazın görülen, küçük, siyah, kanatlı örümcek? (köylerde daha çok bulunur)"
+        },
+
+        "5": {
+            "word": "sis",
+            "description": "küçük su taneleri veya buhardan oluşan bulutların çok alçalarak yeryüzüne kadar inmesiyle oluşan duman"
+        },
+
+        "6": {
+            "word": "senaryo",
+            "description": "Tiyatro/film gibi eserlerin sahnelerinin akışını gösteren metin?"
+        },
+
+        "7": {
+            "word": "çirkin",
+            "description": "Güzel olmayan/güzel gözükmeyen"
+        },
+
+        "8": {
+            "word": "sebze",
+            "description": "Genellikle pişirilerek yenen bitkiler veya bunların taneleri"
+        },
+
+        "9": {
+            "word": "venüs",
+            "description": "Çoban yıldızı?"
+        }
+    }
+}
