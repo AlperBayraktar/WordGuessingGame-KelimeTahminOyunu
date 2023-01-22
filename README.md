@@ -6,9 +6,9 @@ This is a word guessing game that i made using Python.
 
 -   You are trying to guess given words using their descriptions.
 
--   You have 20 letters to choose for guessing the right answer.
+-   You have 20 letters to choose from while guessing the answer.
 
--   When you're stuck, you can use hints. Hints show the next letter of your guess. But they don't give information about correctness of your current guess.
+-   When you're stuck, you can get hints. Hints show the next letter of your guess. But they don't give information about correctness of your current guess.
 
 -   Hints cost 20 coins, each right answer will give you 10 coins.
 
@@ -20,7 +20,7 @@ This is a word guessing game that i made using Python.
 
 > Instructions for V3 is inside the README.md file in V3 folder
 
-> If game doesn't work when opening via clicking the file, please try to run it on terminal.
+> If game doesn't work when opening by clicking the file, please try to run it on terminal.
 
 ### **Important Note**: I don't know if voice effects in old commits were copyrighted.
 
@@ -40,7 +40,7 @@ Python kullanarak yaptığım bir kelime tahmin oyunu.
 
 -   İpuçları 20 coin tutar, her doğru cevapsa size 10 coin verir.
 
--   İstatistikleri görmek için profil bölümünü kullanabilirsiniz."
+-   İstatistikleri görmek için profil bölümünü kullanabilirsiniz.
 
 ## Nasıl çalıştırılır?
 
