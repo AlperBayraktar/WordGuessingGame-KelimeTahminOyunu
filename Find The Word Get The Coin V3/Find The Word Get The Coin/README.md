@@ -4,7 +4,9 @@
 
 > pip install --requirement ./requirements.txt
 
--   Create a database called `ftwgtc` (first letters of game name) in PostgreSQL. Game will manage tables automaticly.
+-   Create a database in a name you want in PostgreSQL.
+-   Then open `dbConnectionInfo.py` and update database connection values according to your setup.
+-   Game will manage everything automaticly.
 
 > To open game: run game.py
 
@@ -14,6 +16,8 @@
 
 > pip install --requirement ./requirements.txt
 
--   PostgreSQL'inizde `ftwgtc` (oyun isminin ilk harfleri) adlı bir veritabanı oluşturun. Oyun tabloları otomatik olarak ayarlayacaktır.
+-   PostgreSQL üzerinden istediğiniz isme sahip bir veritabanı oluşturun.
+-   Daha sonra `dbConnectionInfo.py` dosyasını açıp değerleri kendi sisteminize göre değiştirin.
+-   Oyun kalan her şeyi kendisi ayarlayacaktır.
 
 > Oyunu açmak için game.py'ı çalıştırın.

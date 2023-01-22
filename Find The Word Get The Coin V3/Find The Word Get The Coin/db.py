@@ -1,8 +1,5 @@
 import psycopg2
-
-DB_NAME = "ftwgtc"
-DB_USER = "postgres"
-DB_PASSWORD = "abc"
+from dbConnectionInfo import DB_NAME, DB_PASSWORD, DB_USER
 
 class db:
     def __init__(self):
